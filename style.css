@@ -1,0 +1,47 @@
+.Header{
+    color: rgb(13, 45, 85);
+    font-size: xx-large;
+    font-family: Arial;
+    border-color: beige;
+    border-style: groove
+}
+.info{
+    color: cornflowerblue;
+    font-family: Arial;
+    border-color:beige ;
+    border-style: double;
+}
+.list{
+    font-size: medium;
+    font-variant: normal;
+    font-family: Gerogia;
+    color: lightskyblue;
+    text-align: center;
+}
+.body{
+    background-color:rgb(61, 104, 247);
+    font-family:  cursive;
+    font-style: oblique;
+    border-style: dashed;
+    border-color: rgb(96, 82, 247);
+    text-align: center;
+}
+.text{
+    color: deepskyblue;
+    font-family: Arial;
+    border-color:cornsilk ;
+    text-align: center;
+}
+.button{
+    color: rgb(94, 155, 215);
+    font-family: 'Courier New';
+    position:relative;
+}
+.H3{
+    color: cornflowerblue;
+    font-family: 'Courier New';
+    font-style: italic;
+    border-style: dashed;
+    border-color: rgb(35, 143, 210);
+    text-align: center;
+}
